@@ -1,0 +1,18 @@
+Comment,Designator,Footprint,LCSC
+100uF,C1,Capacitor_SMD:CP_Elec_6.3x7.7,C249982
+100nF,"C2,C3,C4,C8",Capacitor_SMD:C_0805_2012Metric,C49678
+1000uF,C6,Capacitor_SMD:CP_Elec_8x10.5,C176671
+MB10S,D1,Package_TO_SOT_SMD:TO-269AA,C2488
+LED,D2,LED_SMD:LED_0603_1608Metric,C72043
+100V 2A,D3,Diode_SMD:D_SMA,C14996
+Screw_Terminal_01x02,J1,0_connectors:TerminalBlock_bornier-2_P5.08mm-green,C395849
+Conn_02x03_Odd_Even,J3,Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical,C5116479
+Screw_Terminal_01x02,"J4,J5,J6,J7,J8,J9,J10,J11,J12",0_connectors:TerminalBlock_bornier-2_P5.08mm-blue,C395882
+Conn_01x08_Male,"J13,J14",Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical,C27438
+47uH,L1,0_inductors:JSHC0650-470M,C386872
+10k,"R1,R2",Resistor_SMD:R_0805_2012Metric,C17414
+1k,"R3,R5",Resistor_SMD:R_0805_2012Metric,C17513
+3k,R4,Resistor_SMD:R_0805_2012Metric,C17661
+R_POT,RV1,0_potentiometers:Potentiometer_Bourns_TC33X_Vertical,C128547
+XL1509-ADJE1,U1,Package_SO:SOP-8_3.76x4.96mm_P1.27mm,C74192
+ATmega88PB-AU,U2,Package_QFP:TQFP-32_7x7mm_P0.8mm,C8727

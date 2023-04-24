@@ -7,11 +7,11 @@ Branchez jusqu’à 14 boutons poussoirs, ILS, relais ou encore pédales de cont
 
 ## Utiliser les fichiers sources pour fabriquer le produit
 
-Il n'est **pas nécessaire de savoir souder ou d'être bon en électronique** pour se procurer ce produit. Grâce aux fichiers sources publiés ici, vous pouvez être en mesure de faire fabriquer ce produit par un sous traitant.
+Grâce aux fichiers sources publiés ici, vous pouvez être en mesure de faire fabriquer ce produit par un sous traitant.
 
-**ATTENTION** ce produit nécessite une programmation afin de pouvoir fonctionner. Vous devez pour cela posséder le programmateur et programmer vous même la carte. Cette étape peut nécessiter des connaissances techniques, si nécessaire, nous vous encourrageons à vous rapprocher d'un club.
+**ATTENTION** ce produit est un **produit complexe à fabriquer** et nécessite notamment une programmation afin de pouvoir fonctionner. Vous devez pour cela posséder le programmateur et programmer vous même la carte. Cette étape peut nécessiter des connaissances techniques, si nécessaire, nous vous encourrageons à vous rapprocher d'un club.
 
-**Remarque** ce produit est composé d'une carte mère, d'un haut parleur externe (8 ohm 1W), et d'un module pour la gestion du son (DF-player mini). Ce dossier permet uniquement de faire fabriquer la carte mère, vous devrez vous fournir les autres composants sur un site de revente (amazon, aliexpress, mouser, ...).
+**Remarque** ce produit est composé d'une carte mère, d'un haut parleur externe (8 ohm 1W, référence FS50MS0810-H7.5), d'une carte micro SD, et d'un module pour la gestion du son (DF-player mini). Ce dossier permet uniquement de faire fabriquer la carte mère, vous devrez vous fournir les autres composants sur un site de revente (amazon, aliexpress, mouser, ...).
 
 ### Faire fabriquer chez un sous traitant
 
